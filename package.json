@@ -22,5 +22,9 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.1",
     "vite": "^4.4.0"
-  }
+  },
+  "description": "Edit multiple JavaScript files in this lab to refactor this app to have multiple components that function as expected.",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
 }
